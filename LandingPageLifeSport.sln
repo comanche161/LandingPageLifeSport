@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandingPageLifeSport", "LandingPageLifeSport\LandingPageLifeSport.csproj", "{F36CA340-0A7B-436E-8501-38529A849AF8}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "startbootstrap-landing-page-gh-pages", "startbootstrap-landing-page-gh-pages\", "{11C7FD5C-E9A3-4D3F-8047-B60C61174D4C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_31197"
+		Debug.AspNetCompiler.PhysicalPath = "startbootstrap-landing-page-gh-pages\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31197\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_31197"
+		Release.AspNetCompiler.PhysicalPath = "startbootstrap-landing-page-gh-pages\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_31197\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "31197"
+		SlnRelativePath = "startbootstrap-landing-page-gh-pages\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F36CA340-0A7B-436E-8501-38529A849AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36CA340-0A7B-436E-8501-38529A849AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36CA340-0A7B-436E-8501-38529A849AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36CA340-0A7B-436E-8501-38529A849AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C7FD5C-E9A3-4D3F-8047-B60C61174D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C7FD5C-E9A3-4D3F-8047-B60C61174D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C7FD5C-E9A3-4D3F-8047-B60C61174D4C}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C7FD5C-E9A3-4D3F-8047-B60C61174D4C}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0592C44-CA9F-4374-9F1E-7D7E1CE4444E}
+	EndGlobalSection
+EndGlobal

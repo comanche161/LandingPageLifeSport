@@ -1,0 +1,16 @@
+﻿body {
+}
+
+a{
+    color:black;
+}
+
+
+.navbar-brand{
+    color:blue !important;
+}
+.nwt-test-imotions {
+    background-repeat: no-repeat;
+    width: 200px !important;
+    height: 200px !important;
+}
